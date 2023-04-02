@@ -1,0 +1,16 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    width: 94%;
+    margin: 0 auto;
+}
+.jac{
+    width: 2.5%;
+   box-align: center;
+}
